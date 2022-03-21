@@ -15,6 +15,10 @@ public:
      * */
 
     virtual void do_something();
+
+    Derived1();
+
+    virtual ~Derived1();
 };
 
 

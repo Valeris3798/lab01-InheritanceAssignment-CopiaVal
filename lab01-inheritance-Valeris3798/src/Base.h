@@ -18,7 +18,12 @@ struct Base {
      * las clases hijas
      * virtual void do_something() =0;
      * */
+
     virtual void do_something() =0;
+
+    Base();
+
+    virtual ~Base();
 };
 
 

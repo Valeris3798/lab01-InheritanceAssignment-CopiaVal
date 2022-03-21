@@ -7,3 +7,9 @@ void Derived1::do_something() {
         std::cout << "Derived1!!!" << std::endl;
 
 }
+
+Derived1::Derived1() {}
+
+Derived1::~Derived1() {
+
+}
