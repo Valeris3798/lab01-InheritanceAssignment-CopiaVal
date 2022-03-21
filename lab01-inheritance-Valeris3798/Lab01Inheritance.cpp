@@ -12,18 +12,28 @@ struct Base {
      * las clases hijas
      * virtual void do_something() =0;
      * */
-    //Hola
     virtual void do_something() =0;
 };
 
 struct Derived1 :  Base {
 public:
-    virtual void do_something() {
+    /* Dado a que tiene otro nombre no iba a funcionar la herencia, esto porque tiene que llamarse igual
+     * virtual void do_semothing() {
+        std::cout << "Derived1!!!" << std::endl;
+    }
+     * */
+
+    virtual void do_something() { //Se tiene que llamar igual
         std::cout << "Derived1!!!" << std::endl;
     }
 };
 
 struct Derived2 :  Base {
+    /* Dado a que tiene otro nombre no iba a funcionar la herencia, esto porque tiene que llamarse igual
+    * virtual void do_semothing() {
+       std::cout << "Derived1!!!" << std::endl;
+   }
+    * */
     virtual void do_something() {
         std::cout << "Derived2!!!" << std::endl;
     }
