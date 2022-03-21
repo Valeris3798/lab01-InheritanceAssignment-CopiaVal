@@ -251,7 +251,7 @@ lab01_Inheritance_BINARY_DIR:STATIC=C:/Users/jeaus/CLionProjects/lab01-Inheritan
 lab01_Inheritance_IS_TOP_LEVEL:STATIC=ON
 
 //Value Computed by CMake
-lab01_Inheritance_SOURCE_DIR:STATIC=C:/Users/jeaus/CLionProjects/lab01-InheritanceAssignment-CopiaVal2/lab01-inheritance-Valeris3798
+lab01_Inheritance_SOURCE_DIR:STATIC=C:/Users/jeaus/CLionProjects/lab01-InheritanceAssignment-CopiaVal2/lab01-inheritance-Valeris3798/cmake-build-debug
 
 
 ########################
@@ -348,7 +348,7 @@ CMAKE_GENERATOR_PLATFORM:INTERNAL=
 CMAKE_GENERATOR_TOOLSET:INTERNAL=
 //Source directory with the top level CMakeLists.txt file for this
 // project
-CMAKE_HOME_DIRECTORY:INTERNAL=C:/Users/jeaus/CLionProjects/lab01-InheritanceAssignment-CopiaVal2/lab01-inheritance-Valeris3798
+CMAKE_HOME_DIRECTORY:INTERNAL=C:/Users/jeaus/CLionProjects/lab01-InheritanceAssignment-CopiaVal2/lab01-inheritance-Valeris3798/cmake-build-debug
 //ADVANCED property for variable: CMAKE_LINKER
 CMAKE_LINKER-ADVANCED:INTERNAL=1
 //ADVANCED property for variable: CMAKE_MAKE_PROGRAM

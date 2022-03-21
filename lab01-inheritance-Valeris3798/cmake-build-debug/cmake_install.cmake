@@ -1,4 +1,4 @@
-# Install script for directory: C:/Users/jeaus/CLionProjects/lab01-InheritanceAssignment-CopiaVal2/lab01-inheritance-Valeris3798
+# Install script for directory: C:/Users/jeaus/CLionProjects/lab01-InheritanceAssignment-CopiaVal2/lab01-inheritance-Valeris3798/cmake-build-debug
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
