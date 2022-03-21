@@ -1,6 +1,6 @@
 #include <iostream>  // allows program to output data to the screen
 
-struct Base {
+struct Base {//
     virtual void do_something() {}
 };
 
